@@ -45,21 +45,21 @@ Do you have any other questions for me?
 ## About this course
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2018S/CSC213/syllabus/) for course policies.
 
-What work will contribute to your grade in this class?  
-> Jinlin: Participation,  
-> Ben: Participation, attendance, assignments, labs, and the final project.  
+What work will contribute to your grade in this class?   
+> Participation, attendance, assignments, labs, and the final project.  
+
 What happens if you miss a day of class because you are sick or your alarm doesn't go off?  
-> ...  
-> Ben: For regular class days, there is no penalty for missing class, but you should figure out what you missed in class from other students. For lab days, there is up to a 20% penalty to your grade for missing a class if you fail to provide a legitimate excuse.  
+> For regular class days, there is no penalty for missing class, but you should figure out what you missed in class from other students. For lab days, there is up to a 20% penalty to your grade for missing a class if you fail to provide a legitimate excuse.  
+
 What happens if you turn in a lab late?  
-> ...  
-> Ben: You will be penalized 10% for every day that it is late.  
+> You will be penalized 10% for every day that it is late.  
+
 On what day will you give a presentation on your final project for this course?  
-> ...  
-> Ben: May 16th or 18th, 2018  
+> May 16th or 18th, 2018  
+
 Where can you find our course textbook?  
-> ...  
-> Ben: http://pages.cs.wisc.edu/~remzi/OSTEP/  
+> http://pages.cs.wisc.edu/~remzi/OSTEP/  
+
 When are you free during my scheduled office hours?  
 > ...  
 > Ben:  todo
