@@ -30,36 +30,36 @@ Do you have any concerns about this course?
 
 Look over the course schedule page. Which scheduled topics look most interesting to you?  
 > Jinlin: Writing shells  
-> Ben:  
+> Ben: Scheduling and distributed systems  
 > Yuan: GPUs  
 
 Do you have any questions about the course?  
 > Jinlin: No  
-> Ben:  
-> Yuan: No
+> Ben: No  
+>   
 
 Do you have any other questions for me?  
-> Jinlin: No  
-> Ben:  
-> Yuan: No
+> Jinlin: No   
+> Ben: No  
 
 ## About this course
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2018S/CSC213/syllabus/) for course policies.
 
 What work will contribute to your grade in this class?  
-> Lab/Lab attendence, participation, assignments, project
-
+> Jinlin: Participation,  
+> Ben: Participation, attendance, assignments, labs, and the final project.  
 What happens if you miss a day of class because you are sick or your alarm doesn't go off?  
-> There is no penalty for missing a regular class day. Or if we miss a lab day due to illness, there will be no penalty if we provide documentation from SHACS. Otherwise, there may be as large as 20% penalty on the lab assigned that day, depending on the circumstance.
-
+> ...  
+> Ben: For regular class days, there is no penalty for missing class, but you should figure out what you missed in class from other students. For lab days, there is up to a 20% penalty to your grade for missing a class if you fail to provide a legitimate excuse.  
 What happens if you turn in a lab late?  
-> Late labs will be penalized a full letter grade (10%) for each day they are late.
-
+> ...  
+> Ben: You will be penalized 10% for every day that it is late.  
 On what day will you give a presentation on your final project for this course?  
-> May 18, 2018, 9am - noon
-
+> ...  
+> Ben: May 16th or 18th, 2018  
 Where can you find our course textbook?  
-> http://pages.cs.wisc.edu/~remzi/OSTEP/
-
+> ...  
+> Ben: http://pages.cs.wisc.edu/~remzi/OSTEP/  
 When are you free during my scheduled office hours?  
-> Monday 10:00am - 10:45am
+> ...  
+> Ben:  todo
