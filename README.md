@@ -36,11 +36,12 @@ Look over the course schedule page. Which scheduled topics look most interesting
 Do you have any questions about the course?  
 > Jinlin: No  
 > Ben:  
->   
+> Yuan: No
 
 Do you have any other questions for me?  
 > Jinlin: No  
 > Ben:  
+> Yuan: No
 
 ## About this course
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2018S/CSC213/syllabus/) for course policies.
