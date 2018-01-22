@@ -47,11 +47,11 @@ Do you have any other questions for me?
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2018S/CSC213/syllabus/) for course policies.
 
 What work will contribute to your grade in this class?  
-> Jinlin: Participation,  
-> Ben:  
+> Lab/Lab attendence, participation, assignments, project
+
 What happens if you miss a day of class because you are sick or your alarm doesn't go off?  
-> ...  
-> Ben:  
+> There is no penalty for missing a regular class day. Or if we miss a lab day due to illness, there will be no penalty if we provide documentation from SHACS. Otherwise, there may be as large as 20% penalty on the lab assigned that day, depending on the circumstance.
+
 What happens if you turn in a lab late?  
 > ...  
 > Ben:  
