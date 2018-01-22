@@ -3,22 +3,22 @@ Fill in the text below with your own answers to each question. Each person in yo
 
 ## About You
 What are your names as they appear on the class roster?
-> ...
+> Jinlin He
 
 What do you prefer to be called?
-> ...
+> Jinlin
 
 What are your GitHub usernames?
-> ...
+> gdomnijl
 
 Why are you taking this course?
-> ...
+> major requirement :p
 
 Do you have any concerns about this course?
-> ...
+> It uses C and I also don't like C.
 
 Look over the course schedule page. Which scheduled topics look most interesting to you?
-> ...
+> 
 
 Do you have any questions about the course?
 > ...
