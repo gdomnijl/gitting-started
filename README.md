@@ -53,14 +53,13 @@ What happens if you miss a day of class because you are sick or your alarm doesn
 > There is no penalty for missing a regular class day. Or if we miss a lab day due to illness, there will be no penalty if we provide documentation from SHACS. Otherwise, there may be as large as 20% penalty on the lab assigned that day, depending on the circumstance.
 
 What happens if you turn in a lab late?  
-> ...  
-> Ben:  
+> Late labs will be penalized a full letter grade (10%) for each day they are late.
+
 On what day will you give a presentation on your final project for this course?  
-> ...  
-> Ben:  
+> May 18, 2018, 9am - noon
+
 Where can you find our course textbook?  
-> ...  
-> Ben:  
+> http://pages.cs.wisc.edu/~remzi/OSTEP/
+
 When are you free during my scheduled office hours?  
-> ...  
-> Ben:  
+> Monday 10:00am - 10:45am
