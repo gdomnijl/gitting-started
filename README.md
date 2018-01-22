@@ -62,4 +62,5 @@ Where can you find our course textbook?
 
 When are you free during my scheduled office hours?  
 > ...  
-> Ben:  todo
+> Ben: Monday 10-11am, Wednesday 4-4:30pm, Friday 4-5pm  
+> Jinlin: Monday 10:00am - 10:45am
