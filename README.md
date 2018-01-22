@@ -3,27 +3,27 @@ Fill in the text below with your own answers to each question. Each person in yo
 
 ## About You
 What are your names as they appear on the class roster?
-> Jinlin He
-> Yuan Wang
+* Jinlin He
+* Yuan Wang
 
 What do you prefer to be called?
-> Jinlin
-> Yuan
+* Jinlin
+* Yuan
 
 What are your GitHub usernames?
-> gdomnijl
-> wangyuan17sp
+* gdomnijl
+* wangyuan17sp
 
 Why are you taking this course?
-> major requirement :p
-> Yuan: to learn more about CS
+* major requirement :p
+* Yuan: to learn more about CS
 
 Do you have any concerns about this course?
-> It uses C and I also don't like C.
-> Labs may be hard.
+* It uses C and I also don't like C.
+* Labs may be hard.
 
 Look over the course schedule page. Which scheduled topics look most interesting to you?
-> 
+* 
 
 Do you have any questions about the course?
 > ...
