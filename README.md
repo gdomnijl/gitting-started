@@ -36,11 +36,12 @@ Look over the course schedule page. Which scheduled topics look most interesting
 Do you have any questions about the course?  
 > Jinlin: No  
 > Ben: No  
->   
+> Yuan: No
 
 Do you have any other questions for me?  
 > Jinlin: No   
 > Ben: No  
+> Yuan: No  
 
 ## About this course
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2018S/CSC213/syllabus/) for course policies.
@@ -61,6 +62,6 @@ Where can you find our course textbook?
 > http://pages.cs.wisc.edu/~remzi/OSTEP/  
 
 When are you free during my scheduled office hours?  
-> ...  
+> Jinlin: Friday, 3:00–5:00pm    
 > Ben: Monday 10-11am, Wednesday 4-4:30pm, Friday 4-5pm  
-> Jinlin: Monday 10:00am - 10:45am
+> Yuan: Monday 10:00am - 10:45am
