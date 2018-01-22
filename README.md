@@ -28,10 +28,14 @@ Do you have any concerns about this course?
 > Yuan: Labs may be hard.
 
 Look over the course schedule page. Which scheduled topics look most interesting to you?
->
+> 
+
+> Yuan: GPUs
 
 Do you have any questions about the course?
-> ...
+> 
+
+> 
 
 Do you have any other questions for me?
 > ...
