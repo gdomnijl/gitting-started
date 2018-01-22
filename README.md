@@ -19,33 +19,34 @@ What are your GitHub usernames?
 > Yuan: wangyuan17sp
 
 Why are you taking this course?
-> Jinlin: major requirement :p
+> Jinlin: major requirement :p  
 > Ben: The class seemed interesting, want to learn more about OS
 > Yuan: to learn more about CS
 
 Do you have any concerns about this course?
-> Jinlin: It uses C and I also don't like C.
+> Jinlin: It uses C and I also don't like C.  
 > Ben: 8am labs :(
 > Yuan: Labs may be hard.
 
 Look over the course schedule page. Which scheduled topics look most interesting to you?
-> Jinlin: Writing shells
+> Jinlin: Writing shells  
 > Ben: 
 > Yuan: GPUs
 
 Do you have any questions about the course?
-> Jinlin: No
+> Jinlin: No  
 > Ben: 
 > 
 
 Do you have any other questions for me?
-> Jinlin: No
+> Jinlin: No  
 > Ben: 
+
 ## About this course
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2018S/CSC213/syllabus/) for course policies.
 
 What work will contribute to your grade in this class?
-> ...
+> Jinlin: Participation, 
 > Ben: 
 What happens if you miss a day of class because you are sick or your alarm doesn't go off?
 > ...
